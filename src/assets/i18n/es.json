@@ -1,0 +1,191 @@
+{
+  "Header.Item1": "Acerca de mi",
+  "Header.Item2": "Experiencia",
+  "Header.Item3": "Proyectos",
+  "Header.Item4": "Contacto",
+  "Header.cvBtn": "Curriculum",
+  "Header.cvName": "CV_Jose_Hernandez_Espanol.pdf",
+
+  "Banner.Pretitle": "Hola! Mi nombre es",
+  "Banner.Description": "Como estudiante de Ingeniería de Sistemas, vengo desarrollando soluciones tecnológicas desde hace más de un año, incluyendo interfaces web, automatización de procesos y pruebas funcionales. Me enfoco en crear código limpio, reutilizable y mantenerme actualizado en buenas prácticas de desarrollo y experiencia de usuario.",
+  "Banner.ActionBtn": "Saludame",
+
+  "AboutMe.Title": "Acerca de mi",
+  "AboutMe.Paragraphs": [
+    "Soy desarrollador con experiencia en análisis de sistemas, desarrollo frontend/backend y liderazgo técnico. Me enfoco en proponer soluciones, mejorar la calidad del software y generar valor. Suelo crear herramientas por iniciativa propia, explorando tecnologías por interés personal. Me adapto rápido y siempre busco aprender más."
+    
+]
+
+,
+
+  "Experience.Title": "Experiencia",
+  "Experience.Jobs": [
+    {
+      "Tab": "Global",
+      "Title": "Technical Team Lead & Internal Solutions Developer",
+      "Date": "Mayo 2025",
+      "Description": [
+        "Lider en la toma de desiciones tecnicas",
+        "Contratación de talento tecnico para la empresa",
+        "Lider de equipo del departamento de tecnología",
+        "Creación y mantenimiento de una plataforma de gestion de procesos internos para ventas de cursos",
+        "Programación de funciones y plugins personalizados para personalizacion de una plataforma de wordpress",
+        "Implementación de integración continua y respaldos diarios.",
+        "Reuniones de planificación en informes."
+      ]
+    },
+    {
+      "Tab": "RAGNAROK",
+      "Title": "Wordpress developer",
+      "Date": "Diciembre 2022",
+      "Description": [
+        "Creación y mantenimiento de una plataforma Eccomerce en Wordpress.",
+        "Programación funcional en plantillas y plugins para añadir las características necesarias",
+        "Implementación de integración continua y respaldos diarios.",
+                "Reuniones de planificación en informes."
+      ]
+    },
+    {
+      "Tab": "Freelancer",
+      "Title": "Independiente",
+      "Date": "Mayo 2022 - Actualidad",
+      "Description": [
+        "Implementacion de mejoras continuas, trabajando en frontend y backend.",
+        "Creacion de plataformas con Angular, Laravel, Wordpress programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
+        "Automatizacion de procesos con estructuras de datos.",
+        "Transcripcion de Videos y Audios en formato DOCS",
+        "Creacion de Querys SQL",
+        "Testeo de Aplicaciones",
+        "Maquetacion de diseños con SASS, Bootstrap, Materialize, Bulma, etc."
+      ]
+    },
+    {
+      "Tab": "ASE",
+      "Title": "FullStack developer",
+      "Date": "Julio 2025- Actualidad",
+      "Description": [
+        "Creacion de plataforma Web con repositorio de banco de preguntas (AprobandoSinEstudiar)",
+        "Diseñada con Node.js,MongoDB,Angular"
+
+      ]
+    },
+    {
+      "Tab": "Servitech",
+      "Title": "UX/UI",
+      "Date": "Marzo 2024- Julio 2024",
+      "Description": [
+        "Desarrollo de prototipo en figma de la app servitech",
+        "integración de mejoras en diseño y tiempos de carga.",
+        "Comunicación efectiva con equipo de diseño, trabajando con Figma"
+      ]
+    },
+    {
+      "Tab": "FC Companies",
+      "Title": "WebMaster",
+      "Date": "Enero 2025 - Marzo 2025",
+      "Description": [
+        "Creacion de Website con Wordpress",
+        "Creacion de material audiovisual para Contenido de marketing",
+        "Configuracion y manejo de Dominios y Microsoft Apps"
+
+      ]
+    },
+    {
+      "Tab": "QA",
+      "Title": "Tester QA",
+      "Date": "Julio 2024 - Diciembre 2024",
+      "Description": [
+        "Testeo de las HU de softwares de estudiantes de ultimo ciclo de la UPC",
+        "Pruebas de Estres aplicadas con Jmeter"
+      ]
+    }
+  ],
+
+  "FeatureProjects.Title": "Mis proyectos",
+  "FeatureProjects.Label": "Proyecto Destacado",
+  "FeatureProjects.Projects": [
+    {
+      "Title": "Ragnarok.pe",
+      "Description": "Ragnarok fue una landing page desarrollada para una marca ficticia, diseñada con un enfoque moderno y responsivo usando <span class='underline'>WordPress</span> y <span class='underline'>Elementor</span>. El proyecto incluyó la integración completa de <span class='underline'>WooCommerce</span> para mostrar productos, carrito de compras y pagos en línea. La página fue optimizada para rendimiento, SEO y dispositivos móviles.",
+      "imgs": [
+        "assets/images/Ragnarok/Captura de pantalla 2024-05-19 1009582.png",
+        "assets/images/Ragnarok/Captura de pantalla 2024-05-19 115514.png",
+        "assets/images/Ragnarok/Captura de pantalla 2024-05-19 115702.png",
+        "assets/images/Ragnarok/Captura de pantalla 2024-05-19 115829.png",
+        "assets/images/Ragnarok/Captura de pantalla 2024-05-19 1009582.png"
+      ],
+      "Technologies": ["Wordpress", "Woocommerce", "CSS", "PHP", "Elementor"]
+    },
+
+    {
+      "Title": "AprobandoSinEstudiar",
+      "Description": "Aprobandosinestudiar es una plataforma colaborativa dirigida a estudiantes universitarios, donde pueden compartir y acceder a exámenes pasados, prácticas y recursos académicos.Me encargué del frontend en <span class='underline'>React</span> y del backend con <span class='underline'>Node.js</span> y <span class='underline'>MongoDB</span>. Incluye funcionalidades como carga de archivos, categorización por curso y facultad, autenticación de usuarios y sistema de comentarios.",
+      "imgs": [
+        "assets/images/ASE/Captura de pantalla 2025-07-15 173953.png",
+        "assets/images/ASE/Captura de pantalla 2025-07-15 174036.png",
+        "assets/images/ASE/Captura de pantalla 2025-07-15 174059.png",
+        "assets/images/ASE/Captura de pantalla 2025-07-15 174157.png",
+        "assets/images/ASE/Captura de pantalla 2025-07-15 174219.png"
+      ],
+      "Technologies": ["React", "NodeJS", "SCSS", "Hostinger", "MongoDB"]
+    }
+
+
+
+
+
+  ],
+
+  "OtherProjects.Title": "Mas proyectos",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Hands game",
+      "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
+      "imgs": ["assets/images/hands-game.png"],
+      "ghLink": "https://github.com/andresjosehr/hands-game",
+      "demoLink": "https://github.com/andresjosehr/hands-game",
+      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+    },
+    {
+      "Title": "Sunat Api",
+      "Description": "La API Web Scraping Aduanas proporciona acceso a datos de valores de distintas monedas mediante técnicas avanzadas de web scraping. Ofrece documentación detallada de los endpoints para facilitar su integración y uso por parte de desarrolladores y entusiastas de la automatización.",
+      "imgs": ["assets/images/countries-viewer.png"],
+      "ghLink": "https://aduanas.michaelcuadros.com",
+      "demoLink": "https://aduanas.michaelcuadros.com",
+      "Technologies": ["Angular", "RxJS", "SASS", "API"]
+    },
+    {
+      "Title": "Four card feature section",
+      "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
+      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+      "demoLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+      "Technologies": ["Angular", "SASS", "CSS GRID"]
+    },
+    {
+      "Title": "Problema del Camino minimo",
+      "Description": "Creado para simular y enseñar el Algoritmo de Dijkstra",
+      "ghLink": "https://github.com/andresjosehr/social-proof-section",
+      "demoLink": "https://replit.com/@Ci28/trabajo-mate-comp-owo",
+      "Technologies": ["HTML", "CSS", "Typescript", "VUE"]
+    },
+    {
+      "Title": "FAQ accordion card",
+      "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
+      "ghLink": "https://github.com/andresjosehr/faq-accordion",
+      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
+      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+    },
+    {
+      "Title": "Profile card",
+      "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
+      "ghLink": "https://github.com/andresjosehr/profile-card-component",
+      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
+      "Technologies": ["Angular", "SASS", "GIT"]
+    }
+  ],
+
+  "Contact.Pretitle": "Y... ¿Ahora?",
+  "Contact.Title": "¡Salúdame!",
+  "Contact.Content": "Estaré encantado de recibir tu contacto si quieres conversar acerca de nuevas oportunidades. Escríbeme, y te responderé tan pronto como vea tu mensaje.",
+  "Contact.Btn": "Contactame"
+}
