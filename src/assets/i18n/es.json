@@ -164,8 +164,8 @@
     {
       "Title": "Problema del Camino minimo",
       "Description": "Creado para simular y enseñar el Algoritmo de Dijkstra",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://replit.com/@Ci28/trabajo-mate-comp-owo",
+      "ghLink": "http://caminominimo.netlify.app/",
+      "demoLink": "http://caminominimo.netlify.app/",
       "Technologies": ["HTML", "CSS", "Typescript", "VUE"]
     },
     {
