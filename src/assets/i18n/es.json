@@ -157,8 +157,8 @@
     {
       "Title": "Four card feature section",
       "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
-      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-      "demoLink": "https://github.com/andresjosehr/fourd-card-feature-section",
+      "ghLink": "http://caminominimo.netlify.app/",
+      "demoLink": "http://caminominimo.netlify.app/",
       "Technologies": ["Angular", "SASS", "CSS GRID"]
     },
     {
