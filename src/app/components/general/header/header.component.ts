@@ -61,7 +61,7 @@ export class HeaderComponent implements OnInit {
   }
 
   downloadCV() {
-    window.open('https://drive.google.com/file/d/1igFcAGnmSgDKZn2T70nfzhTwqqTmHY2H/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1RIJ8yI0yuKq1ggQmzVaGcsJYT2B8gHk_/view?usp=sharing', '_blank');
   }
 
   @HostListener('window:scroll', ['getScrollPosition($event)'])
